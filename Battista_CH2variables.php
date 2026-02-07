@@ -1,11 +1,4 @@
-#2.3
-
-/* 
-your first name
-your last name
-your address (must look like a real address but doesn't need to be yours)
-phone number (can be a ficticiuos number)
-*/
+// PHP Variables Assignment
 
 <!DOCTYPE html>
 <html lang="en">
@@ -31,3 +24,4 @@ echo "<p>Phone: $phone</p>";
 ?>
 </body>
 </html>
+
